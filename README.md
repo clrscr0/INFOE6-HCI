@@ -1,6 +1,6 @@
 # INFOE6-HCI
 ## Resources
-### Git
+### Git Demo & Tutorials
 * https://www.youtube.com/watch?v=ISKr-W1wWqY
 * https://www.youtube.com/watch?v=3a2x1iJFJWc
 * https://www.youtube.com/watch?v=USjZcfj8yxE
