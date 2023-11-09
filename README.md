@@ -1,1 +1,1 @@
-# INFOE6-4B
+# Git Cheat Sheet
