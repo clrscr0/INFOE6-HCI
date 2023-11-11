@@ -8,3 +8,4 @@
 ### Blender 2.8 Fundamentals
 * https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
 * https://github.com/clrscr0/INFOE6-HCI/blob/main/cgcookie_blender_hotkeys.v1.pdf
+* https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&ab_channel=BlenderGuru
