@@ -1,4 +1,4 @@
-Cloning the class repository:
+# Cloning the class repository:
 
 	1. Right-click on the folder where you want to copy the repository
 	2. Select Git Bash to launch
@@ -7,7 +7,7 @@ Cloning the class repository:
 	4. To go inside the project folder, type 
 		cd INFOE6-HCI
 
-Create your branch:
+# Create your branch:
 	1. Type 
 		git checkout -b <LastName-Firstname>
 	2. Save your work in the "Blender Projects" folder.
@@ -21,6 +21,6 @@ Create your branch:
 	7. To push changes to the remote repository on GitHub, type 
 		git push 
 		
-Pull request changes on GitHub:
+# Pull request changes on GitHub:
 	1. Go to https://github.com/clrscr0/INFOE6-HCI.git
 	
