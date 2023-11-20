@@ -2,8 +2,7 @@
 
 	1. Right-click on the folder where you want to copy the repository
 	2. Select Git Bash to launch
-	3. Type 
-		git clone https://github.com/clrscr0/INFOE6-HCI.git in Git Bash. Wait for the cloning process to complete.
+	3. Type `git clone https://github.com/clrscr0/INFOE6-HCI.git` in Git Bash. Wait for the cloning process to complete.
 	4. To go inside the project folder, type 
 		cd INFOE6-HCI
 
