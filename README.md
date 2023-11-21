@@ -11,6 +11,6 @@
 * [Blender Beginner Donut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&ab_channel=BlenderGuru)
 * [Character Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY&ab_channel=CGGeek)
 * [Top 6 Blender Nodes To Make Any Material in Blender](https://www.youtube.com/watch?v=yffWd4kI51Q)* 
-* [Blender Cheat Sheet 1](https://github.com/clrscr0/INFOE6-HCI/blob/main/cgcookie_blender_hotkeys.v1.pdf) (PDF)
-* [Blender Cheat Sheet 2](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit#heading=h.ftqi9ub1gec3) (GDOC)
-* [Blender Guide](https://github.com/clrscr0/INFOE6-HCI/blob/main/Blender%20Assets/Blender%20Guide.pdf) (PDF)
+* [Blender Cheat Sheet 1](https://github.com/clrscr0/INFOE6-HCI/blob/main/cgcookie_blender_hotkeys.v1.pdf) (pdf)
+* [Blender Cheat Sheet 2](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit#heading=h.ftqi9ub1gec3) (gdoc)
+* [Blender Guide](https://github.com/clrscr0/INFOE6-HCI/blob/main/Blender%20Assets/Blender%20Guide.pdf) (pdf)
