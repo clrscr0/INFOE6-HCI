@@ -6,10 +6,10 @@
 
 # Create your branch:
 1. Type `git checkout -b <LastName-Firstname>`
-2. Save your work in the "Blender Projects" folder.
+2. Save your work in the "Class Output\<Path-to-Assignment-Or-Project>" folder. Submitted file should have a filename of LastName-FirstName.
 3. Type `git status`
-4. Type `git add "Blender Projects"`
-5. Type `git commit -m "Added my blender project"`
+4. Type `git add "Class Output"`
+5. Type `git commit -m "<Your comment>"`. Ex. `git commit -m "Added my donut assignment"`
 6. (Optional) Repeat Step 3-5 if you have additional changes.
 7. To push changes to the remote repository on GitHub, type `git push`
    * If using `git push` on the branch for the first time, type `git push origin HEAD` instead. If prompted to log in, select **Sign-In Using Browser** and input username and password on the browser opened by GitHub. 
