@@ -17,9 +17,9 @@
 # Pull request changes on GitHub:
 1. Go to https://github.com/clrscr0/INFOE6-HCI.git
 2. Click **Compare & pull request**
-	![image](https://github.com/clrscr0/INFOE6-HCI/assets/2803908/4c76d7e1-9e8e-4e2d-8012-3c18ada57724)
+	![image](https://github.com/clrscr0/INFOE6-HCI/assets/2803908/96611019-4e65-4b37-a2d0-36d063ba7ae1)
 	* You can also go to **# branches** and open your branch. Go to Contribute and click **Open pull request**.
 3.(Optional) Add a description of your change
 4. Add reviewer
-	![image](https://github.com/clrscr0/INFOE6-HCI/assets/2803908/30d450bc-ff62-474c-bca7-28175c04e63a)
+	![image](https://github.com/clrscr0/INFOE6-HCI/assets/2803908/690d1c65-0b6c-408f-9935-91b6956d6233)
 5. Click **Create pull request**
