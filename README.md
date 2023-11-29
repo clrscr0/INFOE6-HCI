@@ -14,3 +14,4 @@
 * [Blender Cheat Sheet 1](https://github.com/clrscr0/INFOE6-HCI/blob/main/cgcookie_blender_hotkeys.v1.pdf) (pdf)
 * [Blender Cheat Sheet 2](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit#heading=h.ftqi9ub1gec3) (gdoc)
 * [Blender Guide](https://github.com/clrscr0/INFOE6-HCI/blob/main/Blender%20Assets/Blender%20Guide.pdf) (pdf)
+* [Mr. Cubie Rigging and Animation](https://www.youtube.com/watch?v=4z7G4TyKE9g&list=PLcJZEh3VVmz7FfyKPxunuCmfBLnpO1Lcy)
