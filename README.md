@@ -17,3 +17,4 @@
 * [Mr. Cubie Rigging and Animation](https://www.youtube.com/watch?v=4z7G4TyKE9g&list=PLcJZEh3VVmz7FfyKPxunuCmfBLnpO1Lcy)
 * [Simple Animation For Beginners](https://www.youtube.com/watch?v=Dyj0sJVd3Lw)
 * [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
+* [How to Export Video in Blender: MP4 Video Format](https://www.youtube.com/watch?v=3eJmISziyIY)
