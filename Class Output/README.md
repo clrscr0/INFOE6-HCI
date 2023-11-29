@@ -1,4 +1,4 @@
-# Fork the class repository and clone:
+# Fork the class repository and clone it:
 1. In Github, click the fork button on the upper-right part of the repository. A copy of the repository will be added to your list of repositories.
 2. On you computer, right-click on the folder where you want to clone the repository.
 3. Open Git Bash and go to the folder in Step 2 via the Git Bash terminal.
