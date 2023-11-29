@@ -16,3 +16,4 @@
 * [Top 6 Blender Nodes To Make Any Material in Blender](https://www.youtube.com/watch?v=yffWd4kI51Q)
 * [Mr. Cubie Rigging and Animation](https://www.youtube.com/watch?v=4z7G4TyKE9g&list=PLcJZEh3VVmz7FfyKPxunuCmfBLnpO1Lcy)
 * [Simple Animation For Beginners](https://www.youtube.com/watch?v=Dyj0sJVd3Lw)
+* [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
