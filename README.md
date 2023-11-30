@@ -18,3 +18,7 @@
 * [Simple Animation For Beginners](https://www.youtube.com/watch?v=Dyj0sJVd3Lw)
 * [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
 * [How to Export Video in Blender: MP4 Video Format](https://www.youtube.com/watch?v=3eJmISziyIY)
+* [How to make a storyboard for a video](https://www.youtube.com/watch?v=dnlQN_L5HC0)
+* [Storyboarding](https://www.toolshero.com/problem-solving/storyboard/) (webpage)
+* [How to Make a Camera Follow Path](https://www.youtube.com/watch?v=1oD3gSX3ICM)
+* [Camera Follow/Track Object](https://www.youtube.com/watch?v=ageV_llb0Hk)
