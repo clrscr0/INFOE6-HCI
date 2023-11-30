@@ -18,3 +18,4 @@
 * [Simple Animation For Beginners](https://www.youtube.com/watch?v=Dyj0sJVd3Lw)
 * [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
 * [How to Export Video in Blender: MP4 Video Format](https://www.youtube.com/watch?v=3eJmISziyIY)
+* [How to make a storyboard for a video](https://www.youtube.com/watch?v=dnlQN_L5HC0)
