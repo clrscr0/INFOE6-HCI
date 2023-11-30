@@ -12,8 +12,14 @@
 5. Type `git commit -m "<Your comment>"`. Ex. `git commit -m "Added my donut assignment"`
 6. (Optional) Repeat Step 3-5 if you have additional changes.
 7. To push changes to the remote repository on GitHub, type `git push`
-   * If using `git push` on the branch for the first time, type `git push origin HEAD` instead. If prompted to log in, select **Sign-In Using Browser** and input username and password on the browser opened by GitHub. 
-		
+   * If using `git push` on the branch for the first time, type `git push origin HEAD` instead. If prompted to log in, select **Sign-In Using Browser** and input username and password on the browser opened by GitHub.
+  
+# Update your branch:
+1. Type `git status`. This indicates if your branch is ahead or behind (meaning, other contributors may have updated the remote branch in Github or you made changes in your local branch that is not yet in the remote branch)
+2. If your branch is behined, type `git pull origin main`. This will automatically merge the changes in your local branch and the main branch in remote.
+3. If commit message appears, press ESCAPE and type `wq`.
+4. Type `git push` to push merged changes to the remote branch.
+  
 # Pull request changes on GitHub:
 1. Go to https://github.com/clrscr0/INFOE6-HCI.git
 2. Click **Compare & pull request**
