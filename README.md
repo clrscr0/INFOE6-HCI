@@ -22,3 +22,4 @@
 * [Storyboarding](https://www.toolshero.com/problem-solving/storyboard/) (webpage)
 * [How to Make a Camera Follow Path](https://www.youtube.com/watch?v=1oD3gSX3ICM)
 * [Camera Follow/Track Object](https://www.youtube.com/watch?v=ageV_llb0Hk)
+* [Introduction to Compositing in Blender](https://www.youtube.com/watch?v=bIZrTXtyQkY)
